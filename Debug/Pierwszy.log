@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\michał\desktop\main.cpp(180): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\michał\desktop\main.cpp(203): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\michał\desktop\main.cpp(225): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\michał\desktop\main.cpp(247): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Pierwszy.vcxproj -> C:\Users\Michał\source\repos\Pierwszy\Debug\Pierwszy.exe
